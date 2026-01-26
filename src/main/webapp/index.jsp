@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Integration with nexus is done</h1>
+            <h1>Welcome to Home Appliances</h1>
             <p>Happy learning</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
